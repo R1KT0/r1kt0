@@ -26,7 +26,7 @@
 ---
 
 ## 🌍 Donde encontrarme
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-R1KT0-blue?style=flat&logo=linkedin)](https://linkedin.com/in/tu-link)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-R1KT0-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/francisco-garao)
 [![Portfolio](https://img.shields.io/badge/Portfolio-r1kt0.dev-red?style=flat&logo=firefox)](https://github.com/R1KT0/portfolio)
 [![YouTube](https://img.shields.io/badge/YouTube-R1KT0-red?style=flat&logo=youtube)](https://youtube.com/tu-link)
 
