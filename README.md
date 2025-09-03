@@ -1,6 +1,6 @@
 # 👋 Hey, soy Fran aka R1KT0  
 
-💻 Fullstack Dev | 🔐 Cybersecurity Enthusiast | 🚀 Future Millionaire  
+💻 Fullstack Dev | 🔐 Cybersecurity Enthusiast
 
 ---
 
@@ -16,10 +16,10 @@
 ---
 
 ## ⚡ Cosas Random que me gustan
-- 💡 Aprender C desde cero como un loco 🧠  
+- 💡 Aprender nuevas tecnologias desde cero como un loco 🧠  
 - 🕵️‍♂️ Hackear máquinas en HTB  
-- 🔥 Crear proyectos que me acerquen a la libertad financiera  
-- 🎨 Estética hacker, retro y neon vibes  
+- 🔥 Crear proyectos
+
 
 ---
 
