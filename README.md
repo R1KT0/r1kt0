@@ -4,14 +4,14 @@
 
 ---
 
-## 📊 Mis Stats en GitHub
+## 📊 Mis Commits en GitHub
 ![Commits](https://github-readme-streak-stats.herokuapp.com?user=R1KT0&theme=tokyonight&hide_border=true)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=R1KT0&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+<!--[GitHub Stats](https://github-readme-stats.vercel.app/api?username=R1KT0&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)-->
 
 ---
-//coment
-#comment 
---comment
+
+
+
 ## 🛠️ Lenguajes que más uso
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=R1KT0&layout=compact&theme=tokyonight&hide_border=true)
 
