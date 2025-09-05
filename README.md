@@ -1,4 +1,4 @@
-# 👋 Hey, soy Fran aka R1KT0  
+# 👋 Hey, soy Fran
 
 💻 Fullstack Dev | 🔐 Cybersecurity Enthusiast
 
